@@ -1,0 +1,15 @@
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\fourth\bin\Debug\net7.0\fourth.exe
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\fourth\bin\Debug\net7.0\fourth.deps.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\fourth\bin\Debug\net7.0\fourth.runtimeconfig.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\fourth\bin\Debug\net7.0\fourth.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\fourth\bin\Debug\net7.0\fourth.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\fourth\obj\Debug\net7.0\fourth.csproj.AssemblyReference.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\fourth\obj\Debug\net7.0\fourth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\fourth\obj\Debug\net7.0\fourth.AssemblyInfoInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\fourth\obj\Debug\net7.0\fourth.AssemblyInfo.cs
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\fourth\obj\Debug\net7.0\fourth.csproj.CoreCompileInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\fourth\obj\Debug\net7.0\fourth.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\fourth\obj\Debug\net7.0\refint\fourth.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\fourth\obj\Debug\net7.0\fourth.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\fourth\obj\Debug\net7.0\fourth.genruntimeconfig.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\fourth\obj\Debug\net7.0\ref\fourth.dll

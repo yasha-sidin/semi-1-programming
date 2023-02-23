@@ -1,0 +1,15 @@
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\second\obj\Debug\net7.0\second.csproj.AssemblyReference.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\second\obj\Debug\net7.0\second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\second\obj\Debug\net7.0\second.AssemblyInfoInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\second\obj\Debug\net7.0\second.AssemblyInfo.cs
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\second\obj\Debug\net7.0\second.csproj.CoreCompileInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\second\bin\Debug\net7.0\second.exe
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\second\bin\Debug\net7.0\second.deps.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\second\bin\Debug\net7.0\second.runtimeconfig.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\second\bin\Debug\net7.0\second.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\second\bin\Debug\net7.0\second.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\second\obj\Debug\net7.0\second.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\second\obj\Debug\net7.0\refint\second.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\second\obj\Debug\net7.0\second.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\second\obj\Debug\net7.0\second.genruntimeconfig.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Знакомство с языками программирования\Семинар1\second\obj\Debug\net7.0\ref\second.dll

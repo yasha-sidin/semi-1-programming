@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Команда, которая выводит что-то в консоль
+
+Console.WriteLine("Hello, GeekBrains");
